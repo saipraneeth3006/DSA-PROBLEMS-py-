@@ -18,6 +18,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0169-majority-element) |
+| [0771-jewels-and-stones](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
@@ -36,4 +37,8 @@ these are the python problems that I have solved in leetcode (1st sem)
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1512-number-of-good-pairs) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->

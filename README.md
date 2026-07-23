@@ -6,6 +6,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1512-number-of-good-pairs) |
@@ -17,6 +18,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0169-majority-element) |
 | [0771-jewels-and-stones](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1512-number-of-good-pairs) |

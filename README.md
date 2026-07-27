@@ -51,6 +51,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0771-jewels-and-stones) |
 ## Bit Manipulation
 |  |

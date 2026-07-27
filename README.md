@@ -41,6 +41,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0009-palindrome-number) |
 | [1512-number-of-good-pairs](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |

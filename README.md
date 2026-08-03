@@ -11,6 +11,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [0169-majority-element](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0645-set-mismatch) |
+| [1406-stone-game-iii](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1512-number-of-good-pairs) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -18,6 +19,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1406-stone-game-iii](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +49,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | ------- |
 | [0009-palindrome-number](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
@@ -61,4 +64,16 @@ these are the python problems that I have solved in leetcode (1st sem)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

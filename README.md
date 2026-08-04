@@ -15,6 +15,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1512-number-of-good-pairs) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [3731-find-missing-elements](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +29,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [0645-set-mismatch](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1512-number-of-good-pairs) |
+| [3731-find-missing-elements](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,6 +41,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [0628-maximum-product-of-three-numbers](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |

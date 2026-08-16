@@ -8,6 +8,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | ------- |
 | [0001-two-sum](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0169-majority-element) |
@@ -85,6 +86,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0027-remove-element) |
 ## Binary Search
 |  |
 | ------- |

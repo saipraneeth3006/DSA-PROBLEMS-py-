@@ -64,6 +64,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0771-jewels-and-stones) |
 ## Bit Manipulation
@@ -91,9 +92,26 @@ these are the python problems that I have solved in leetcode (1st sem)
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0035-search-insert-position) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

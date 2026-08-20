@@ -62,6 +62,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [0628-maximum-product-of-three-numbers](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1512-number-of-good-pairs) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
 | ------- |
@@ -119,4 +120,8 @@ these are the python problems that I have solved in leetcode (1st sem)
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->

@@ -20,6 +20,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1512-number-of-good-pairs) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -114,4 +115,8 @@ these are the python problems that I have solved in leetcode (1st sem)
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->

@@ -65,6 +65,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [1406-stone-game-iii](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1512-number-of-good-pairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |

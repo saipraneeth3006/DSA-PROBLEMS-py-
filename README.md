@@ -125,6 +125,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [0349-intersection-of-two-arrays](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0374-guess-number-higher-or-lower) |
 ## String Matching
 |  |
 | ------- |
@@ -158,4 +159,8 @@ these are the python problems that I have solved in leetcode (1st sem)
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [0088-merge-sorted-array](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0645-set-mismatch) |
@@ -34,6 +35,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | ------- |
 | [0001-two-sum](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1512-number-of-good-pairs) |
@@ -47,6 +49,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | ------- |
 | [0088-merge-sorted-array](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0645-set-mismatch) |
@@ -63,6 +66,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | ------- |
 | [0009-palindrome-number](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1512-number-of-good-pairs) |
@@ -78,6 +82,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0645-set-mismatch) |
 ## Heap (Priority Queue)
 |  |
@@ -107,6 +112,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | ------- |
 | [0035-search-insert-position](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |

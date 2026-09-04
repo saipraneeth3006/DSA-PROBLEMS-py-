@@ -27,6 +27,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3875-construct-uniform-parity-array-i) |
 | [4020-elevator-requests-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/4020-elevator-requests-i) |
 ## Dynamic Programming
 |  |
@@ -80,6 +81,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [1512-number-of-good-pairs](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1512-number-of-good-pairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |

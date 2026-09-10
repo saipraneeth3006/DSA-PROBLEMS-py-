@@ -82,6 +82,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [3345-smallest-divisible-digit-product-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |

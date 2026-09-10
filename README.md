@@ -28,6 +28,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3903-smallest-stable-index-i) |
 | [4020-elevator-requests-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/4020-elevator-requests-i) |
 ## Dynamic Programming
 |  |
@@ -169,4 +170,8 @@ these are the python problems that I have solved in leetcode (1st sem)
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0374-guess-number-higher-or-lower) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->

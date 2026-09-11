@@ -21,6 +21,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [0645-set-mismatch](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0888-fair-candy-swap](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0888-fair-candy-swap) |
 | [1406-stone-game-iii](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1512-number-of-good-pairs) |
@@ -47,6 +48,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [0350-intersection-of-two-arrays-ii](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0771-jewels-and-stones) |
+| [0888-fair-candy-swap](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0888-fair-candy-swap) |
 | [1512-number-of-good-pairs](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1512-number-of-good-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3731-find-missing-elements) |
@@ -66,6 +68,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [0628-maximum-product-of-three-numbers](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0888-fair-candy-swap](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0888-fair-candy-swap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -137,6 +140,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [0367-valid-perfect-square](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0704-binary-search) |
+| [0888-fair-candy-swap](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0888-fair-candy-swap) |
 ## String Matching
 |  |
 | ------- |

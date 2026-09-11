@@ -26,6 +26,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [2016-maximum-difference-between-increasing-elements](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3903-smallest-stable-index-i) |
@@ -46,6 +47,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [0645-set-mismatch](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1512-number-of-good-pairs) |
+| [3483-unique-3-digit-even-numbers](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -158,6 +160,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Newton's Method
 |  |
 | ------- |
@@ -174,4 +177,8 @@ these are the python problems that I have solved in leetcode (1st sem)
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3903-smallest-stable-index-i) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->

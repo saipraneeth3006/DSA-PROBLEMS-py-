@@ -46,6 +46,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [0268-missing-number](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0888-fair-candy-swap) |
@@ -75,6 +76,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1512-number-of-good-pairs) |
 | [4006-count-valid-prefixes](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/4006-count-valid-prefixes) |
 ## Math
@@ -98,6 +100,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0771-jewels-and-stones) |
 | [4006-count-valid-prefixes](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/4006-count-valid-prefixes) |
 ## Bit Manipulation
@@ -189,4 +192,8 @@ these are the python problems that I have solved in leetcode (1st sem)
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3483-unique-3-digit-even-numbers) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

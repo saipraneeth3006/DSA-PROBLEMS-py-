@@ -37,6 +37,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 | [0268-missing-number](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1025-divisor-game](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1512-number-of-good-pairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -122,6 +124,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
@@ -199,4 +202,12 @@ these are the python problems that I have solved in leetcode (1st sem)
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0387-first-unique-character-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

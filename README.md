@@ -7,6 +7,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0035-search-insert-position) |
@@ -58,6 +59,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -143,6 +145,7 @@ these are the python problems that I have solved in leetcode (1st sem)
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0268-missing-number) |

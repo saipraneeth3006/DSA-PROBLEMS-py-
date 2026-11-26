@@ -213,4 +213,8 @@ these are the python problems that I have solved in leetcode (1st sem)
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/1025-divisor-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saipraneeth3006/DSA-PROBLEMS-py-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
